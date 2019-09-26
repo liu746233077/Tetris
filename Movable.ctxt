@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Movable
+comment1.params=
+comment1.target=boolean\ moveUp()
+comment2.params=
+comment2.target=boolean\ moveDown()
+comment3.params=
+comment3.target=boolean\ moveLeft()
+comment4.params=
+comment4.target=boolean\ moveRight()
+comment5.params=
+comment5.target=boolean\ turnLeft()
+comment6.params=
+comment6.target=boolean\ turnRight()
+numComments=7

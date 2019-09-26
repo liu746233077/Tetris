@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=PieceProxy
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TetriminoProxy\ here.\r\n\r\n\ @author\ Greg\ Johnson,\ University\ of\ Connecticut\r\n\ @version\ 0.3\r\n
+comment1.params=m
+comment1.target=void\ setPiece(Animatable)
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment2.params=aBrush
+comment2.target=void\ fill(java.awt.Graphics2D)
+comment3.params=aBrush
+comment3.target=void\ draw(java.awt.Graphics2D)
+comment4.params=
+comment4.target=boolean\ moveUp()
+comment5.params=
+comment5.target=boolean\ moveDown()
+comment6.params=
+comment6.target=boolean\ moveLeft()
+comment7.params=
+comment7.target=boolean\ moveRight()
+comment8.params=
+comment8.target=boolean\ turnLeft()
+comment9.params=
+comment9.target=boolean\ turnRight()
+numComments=10
